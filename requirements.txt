@@ -1,4 +1,4 @@
-certifi==2018.8.24
+certifi==2022.12.7
 Django==2.2.10
 django-crispy-forms==1.8.1
 djangorestframework==3.11.0
